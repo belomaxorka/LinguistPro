@@ -1,4 +1,4 @@
 # LinguistPro
-LinguistPro - Free boostrap template.
+LinguistPro - Free bootstrap template.
 
 Демо: https://belomaxorka.github.io/linguistpro/
